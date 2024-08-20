@@ -1,0 +1,114 @@
+[
+  {
+    "name": "zalb_f8176abf63",
+    "value": "dd72edcb10fa82495ee7909ca2f1cbc0",
+    "path": "/",
+    "domain": "creator.zoho.in",
+    "isSecure": false,
+    "isHttpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_zcsr_tmp",
+    "value": "9d29604d7f21b228f374f1bb8a77562a256ba8f9dfc98778c8273a7fdc91fef6d9a109ad1942e4358cff4baccb3c63ec0bb7fbef2e4653b5f3a56716b2973f39",
+    "path": "/",
+    "domain": "creator.zoho.in",
+    "isSecure": true,
+    "isHttpOnly": false,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "ZCNEWLIVEUI",
+    "value": "true",
+    "path": "/",
+    "domain": "creator.zoho.in",
+    "isSecure": true,
+    "isHttpOnly": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "com_chat_owner",
+    "value": "1723460663549",
+    "path": "/",
+    "domain": ".zoho.in",
+    "expiry": "Aug 12, 2024, 4:34:37 PM",
+    "isSecure": true,
+    "isHttpOnly": false,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "zalb_bc5826c95a",
+    "value": "4c2ffa4ee4bd9083ea766bb4bfbb9887",
+    "path": "/",
+    "domain": "creator.zoho.in",
+    "isSecure": false,
+    "isHttpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "JSESSIONID",
+    "value": "A3402BAEA903CEED699D1351109F9260",
+    "path": "/",
+    "domain": "creator.zoho.in",
+    "isSecure": true,
+    "isHttpOnly": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_iambdt",
+    "value": "a74e955d3c813bf75fac7ab2a4d16cef94d83f70660a420c7efe82c9729fb954827dc97f3a73e643eac30e4ad22bbb61ed4feefb908dc0645e9bd244ff15461e",
+    "path": "/",
+    "domain": ".zoho.in",
+    "expiry": "Sep 16, 2024, 4:34:17 PM",
+    "isSecure": true,
+    "isHttpOnly": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "com_avcliq_owner",
+    "value": "1723460663549",
+    "path": "/",
+    "domain": ".zoho.in",
+    "expiry": "Aug 12, 2024, 4:34:37 PM",
+    "isSecure": true,
+    "isHttpOnly": false,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "CT_CSRF_TOKEN",
+    "value": "9d29604d7f21b228f374f1bb8a77562a256ba8f9dfc98778c8273a7fdc91fef6d9a109ad1942e4358cff4baccb3c63ec0bb7fbef2e4653b5f3a56716b2973f39",
+    "path": "/",
+    "domain": "creator.zoho.in",
+    "isSecure": true,
+    "isHttpOnly": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "zccpn",
+    "value": "9d29604d7f21b228f374f1bb8a77562a256ba8f9dfc98778c8273a7fdc91fef6d9a109ad1942e4358cff4baccb3c63ec0bb7fbef2e4653b5f3a56716b2973f39",
+    "path": "/",
+    "domain": "creator.zoho.in",
+    "isSecure": true,
+    "isHttpOnly": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "_iamadt",
+    "value": "108254322663a3f872e6e633cf1258be4205320675afb0a5e64374aa5268a65df1426796a08c9ae73df911ea697fbded2207f085fd76e5de711e393ad78f0d7e",
+    "path": "/",
+    "domain": ".zoho.in",
+    "expiry": "Sep 16, 2024, 4:34:17 PM",
+    "isSecure": true,
+    "isHttpOnly": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "wms-tkp-token",
+    "value": "60028832405-40530986-d78e2b77b462748cbbe263fa6de0a200",
+    "path": "/",
+    "domain": ".zoho.in",
+    "isSecure": true,
+    "isHttpOnly": true,
+    "sameSite": "None"
+  }
+]
